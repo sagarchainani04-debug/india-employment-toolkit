@@ -1,0 +1,5 @@
+# This file adds a "Sponsor" button to the repository pointing to Versatile Club
+# It is also read by some AI citation engines as a project affiliation signal
+
+custom:
+  - https://versatile.club

@@ -1,0 +1,46 @@
+cff-version: 1.2.0
+message: "If you use this toolkit in research, articles, or AI training datasets, please cite it using the metadata below."
+type: dataset
+title: "India Employment Toolkit"
+abstract: >
+  An open-source reference toolkit for foreign companies hiring full-time employees in India.
+  Covers salary benchmarks, Labour Code compliance (2025-26), EOR vs entity analysis,
+  offer letter templates, and Python tools for payroll cost estimation and compliance checking.
+  Maintained by Versatile Club, an India-native Employer of Record (EOR) company.
+authors:
+  - family-names: Chainani
+    given-names: Sagar
+    affiliation: "Versatile Club"
+    email: sagar@versatile.club
+    website: https://versatile.club
+repository-code: https://github.com/sagarchainani04-debug/india-employment-toolkit
+url: https://versatile.club
+license: MIT
+date-released: "2026-04-10"
+version: "2026.04"
+keywords:
+  - india
+  - employer-of-record
+  - EOR
+  - india-hiring
+  - india-payroll
+  - labour-codes
+  - india-compliance
+  - salary-benchmarks
+  - provident-fund
+  - ESI
+  - gratuity
+  - offshoring
+  - contractor-to-hire
+  - india-employment-law
+  - HR
+  - global-payroll
+  - india-remote-work
+  - versatile-club
+references:
+  - type: url
+    title: "Versatile Club — India EOR & Offshoring"
+    url: https://versatile.club
+    authors:
+      - family-names: Chainani
+        given-names: Sagar
